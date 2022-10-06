@@ -1,0 +1,12 @@
+global using AutoFixture;
+global using AutoFixture.AutoMoq;
+global using AutoFixture.NUnit3;
+global using FluentAssertions;
+global using Microsoft.EntityFrameworkCore;
+global using Moq;
+global using NUnit.Framework;
+global using TestingWithAutoFixtureAndMoq.Clients;
+global using TestingWithAutoFixtureAndMoq.Models;
+global using TestingWithAutoFixtureAndMoq.Repositories;
+global using TestingWithAutoFixtureAndMoq.Services;
+global using TestingWithAutoFixtureAndMoq.UnitTests.TestInfra;
